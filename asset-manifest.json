@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portofolio_kzuferdy/static/css/main.494dca47.css",
+    "main.js": "/portofolio_kzuferdy/static/js/main.f07a4895.js",
+    "static/media/project2.jpg": "/portofolio_kzuferdy/static/media/project2.fc36d0ac7b26e2a06e08.jpg",
+    "static/media/project1.jpg": "/portofolio_kzuferdy/static/media/project1.2633dadbfcf89a04c2d5.jpg",
+    "static/media/project3.jpg": "/portofolio_kzuferdy/static/media/project3.548b7f07cc71774568fc.jpg",
+    "static/media/profile.png": "/portofolio_kzuferdy/static/media/profile.681c067b698a2c4441c5.png",
+    "static/media/git.png": "/portofolio_kzuferdy/static/media/git.76b29c2b2d973f290473.png",
+    "static/media/project4.jpg": "/portofolio_kzuferdy/static/media/project4.a7b7ed11daa072b234eb.jpg",
+    "static/media/flutter.png": "/portofolio_kzuferdy/static/media/flutter.c3a6795e17c7d814b560.png",
+    "static/media/fire.png": "/portofolio_kzuferdy/static/media/fire.c7866cd0a5276bfbe733.png",
+    "static/media/project5.jpg": "/portofolio_kzuferdy/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/logo2.svg": "/portofolio_kzuferdy/static/media/logo2.b34d54a6d84876ef2b4fa457fa569c06.svg",
+    "static/media/project6.jpg": "/portofolio_kzuferdy/static/media/project6.a22c939898d6c4613b65.jpg",
+    "static/media/logo.svg": "/portofolio_kzuferdy/static/media/logo.e666e4e5194e1e588fe6e7fe6d2ff7d3.svg",
+    "index.html": "/portofolio_kzuferdy/index.html",
+    "main.494dca47.css.map": "/portofolio_kzuferdy/static/css/main.494dca47.css.map",
+    "main.f07a4895.js.map": "/portofolio_kzuferdy/static/js/main.f07a4895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.494dca47.css",
+    "static/js/main.f07a4895.js"
+  ]
+}
