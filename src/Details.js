@@ -23,7 +23,7 @@ import figma from "./assets/techstack/figma.png";
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
-import projectImage4 from "./assets/projects/project4.jpg";
+import projectImage4 from "./assets/projects/project4.png";
 import projectImage5 from "./assets/projects/project5.jpg";
 import projectImage6 from "./assets/projects/project6.jpg";
 
@@ -129,16 +129,15 @@ export const projectDetails = [
 berbasis Point Of Sales Atau POS bisa membeli barang dari ataupun menjual product apa saja. Project ini dibuat untuk final project Superbootcamp Sanbercode.`,
     techstack: "Flutter, Bloc, Firebase",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/kzuferdy/final_project_bootcamp",
   },
   {
     title: "Project title 4",
     image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Aplikasi Edukasi dan Kuis ini di buat untuk mengedukasi siswa dan untuk pembelajaran PKN, menggunakan state manajemen MVVC`,
+    techstack: "Flutter",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/kzuferdy/quiz_app",
   },
   {
     title: "Project title 5",
